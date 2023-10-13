@@ -1,0 +1,30 @@
+body{
+    background:linear-gradient(#ff7c7cb9 0%,#ffc08ab9 17%,#fffc9fb9 33%,#8ebc8eb9 50%,#97a7d1b9 66%,#c991d3b9 84%,#c97dacb9 100%);
+    text-align:center;
+}
+#Myapps{
+    font-family: 'Dancing Script', cursive;
+    font-size:50px;
+}
+#Mygames{
+    font-family: 'Dancing Script', cursive;
+    font-size:50px;
+}
+.gamepic{
+    height:300px;
+    width:300px;
+}
+#header{
+    font-family: 'Dancing Script', cursive;
+    font-size:75px;
+}
+.lines {
+    height: 6px;
+    background-color:#6ca1f1;
+    width: 100px;
+    margin: 8px auto
+}
+#Dialog_Flow{
+    font-family: 'Dancing Script', cursive;
+    font-size:35px; 
+}
